@@ -1,9 +1,6 @@
 👋 Hi, I am Aman.
-
 👀 I’m interested in Debugging code.
-
 🌱 I’m currently persuing B.Tech CSE at Lovely Professional University.
-
 I'm currently learning Python , Web Development.
 
 <!---
