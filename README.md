@@ -1,4 +1,4 @@
-👋 Hi, I am Arman.
+👋 Hi, I am Aman.
 
 👀 I’m interested in debugging code and exploring various programming languages.
 
