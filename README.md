@@ -1,5 +1,7 @@
 👋 Hi, I am Aman.
+
 👀 I’m interested in debugging code and exploring various programming languages.
+
 🌱 I’m currently pursuing a B.Tech in Computer Science Engineering at Lovely Professional University.
 
 ### Skills and Interests:
